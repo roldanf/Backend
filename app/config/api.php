@@ -147,7 +147,7 @@ $config['users_table'] = 'users';
 */
 $config['allow_origin'] = ([
 	'https://api-tester.marasigan.dev',
-	'https://front-end-hroy.onrender.com'
+	'https://backend-jf4v.onrender.com'
 ]);
 
 /*
